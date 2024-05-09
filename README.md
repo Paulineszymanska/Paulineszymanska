@@ -1,12 +1,7 @@
 - 👋 Hi there, I’m @Paulineszymanska
-- 👀 I’m interested in BI technologies, foreign languages and afghan literature
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- 👀 I’m interested in BI technologies, foreign languages and SQL. I am graduated economist, linguist and soon I plan to study Big Data
+- I am a painter and horror passionate, in my free time I solve sudoku and play criminal riddles
+- Languages that I speak are english , polish, german and norwegian
+- 🌱 I’m currently learning Python with PANDAS library
 
-<!---
-Paulineszymanska/Paulineszymanska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
